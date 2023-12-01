@@ -74,6 +74,9 @@ h3 {
   width: 1145px;
   margin: auto;
 }
+.img-shadow {
+  box-shadow: 7px 7px 7px #dedede;
+}
 
 .logo {
   background-color: #222f3f;
